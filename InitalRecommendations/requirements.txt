@@ -1,0 +1,8 @@
+fastapi==0.70.0
+matplotlib==3.3.1
+numpy==1.19.3
+uvicorn
+pandas
+pydantic
+scikit_learn==1.0.1
+scipy
