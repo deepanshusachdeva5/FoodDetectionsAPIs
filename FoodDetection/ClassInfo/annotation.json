@@ -1,0 +1,108 @@
+{
+    "info": {
+        "year": "2021",
+        "version": "18",
+        "description": "Exported from roboflow.ai",
+        "contributor": "",
+        "url": "https://public.roboflow.ai/object-detection/undefined",
+        "date_created": "2021-11-26T11:42:33+00:00"
+    },
+    "licenses": [
+        {
+            "id": 1,
+            "url": "https://creativecommons.org/licenses/by/4.0/",
+            "name": "CC BY 4.0"
+        }
+    ],
+    "categories": [
+        {
+            "id": 0,
+            "name": "FoodFruits",
+            "supercategory": "none"
+        },
+        {
+            "id": 1,
+            "name": "Dhokla",
+            "supercategory": "FoodFruits"
+        },
+        {
+            "id": 2,
+            "name": "aloo gobhi",
+            "supercategory": "FoodFruits"
+        },
+        {
+            "id": 3,
+            "name": "aloo tikki",
+            "supercategory": "FoodFruits"
+        },
+        {
+            "id": 4,
+            "name": "apple",
+            "supercategory": "FoodFruits"
+        },
+        {
+            "id": 5,
+            "name": "banana",
+            "supercategory": "FoodFruits"
+        },
+        {
+            "id": 6,
+            "name": "beetroot",
+            "supercategory": "FoodFruits"
+        },
+        {
+            "id": 7,
+            "name": "boiled-egg",
+            "supercategory": "FoodFruits"
+        },
+        {
+            "id": 8,
+            "name": "bread",
+            "supercategory": "FoodFruits"
+        },
+        {
+            "id": 9,
+            "name": "brown-rice",
+            "supercategory": "FoodFruits"
+        },
+        {
+            "id": 10,
+            "name": "chapati",
+            "supercategory": "FoodFruits"
+        },
+        {
+            "id": 11,
+            "name": "chicken",
+            "supercategory": "FoodFruits"
+        },
+        {
+            "id": 12,
+            "name": "cucumber",
+            "supercategory": "FoodFruits"
+        },
+        {
+            "id": 13,
+            "name": "daal",
+            "supercategory": "FoodFruits"
+        },
+        {
+            "id": 14,
+            "name": "dosa",
+            "supercategory": "FoodFruits"
+        },
+        {
+            "id": 15,
+            "name": "rice",
+            "supercategory": "FoodFruits"
+        },
+        {
+            "id": 16,
+            "name": "smoothie",
+            "supercategory": "FoodFruits"
+        },
+        {
+            "id": 17,
+            "name": "white-rice",
+            "supercategory": "FoodFruits"
+        }
+    ]}
